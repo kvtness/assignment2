@@ -1,0 +1,17 @@
+
+KE008NE@USBCIRL4B9N2B3 MINGW64 ~/Documents/GitHub/assignment2 (master)
+$ mkdir docs
+
+KE008NE@USBCIRL4B9N2B3 MINGW64 ~/Documents/GitHub/assignment2 (master)
+$ ls
+Bicycle.cpp  Car.cpp  PoweredVehicle.cpp  README.md    Vehicle.h  main.cpp
+Bicycle.h    Car.h    PoweredVehicle.h    Vehicle.cpp  docs/
+
+KE008NE@USBCIRL4B9N2B3 MINGW64 ~/Documents/GitHub/assignment2 (master)
+$ cd docs
+
+KE008NE@USBCIRL4B9N2B3 MINGW64 ~/Documents/GitHub/assignment2/docs (master)
+$ command > status.txt
+
+KE008NE@USBCIRL4B9N2B3 MINGW64 ~/Documents/GitHub/assignment2/docs (master)
+$
